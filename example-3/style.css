@@ -63,7 +63,7 @@ a.fb{
 /* grid vs flex base styles */
 
 #blocks{
-  margin: 20px;
+ 
 }
 
 article{
@@ -113,7 +113,7 @@ ul.social{
 
   #blocks{
     display: flex;
-    flex-wrap: wrap;
+    margin: 10px;
     justify-content: space-between;
   }
 
